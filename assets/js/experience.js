@@ -13,7 +13,7 @@ const exp = [
   },
   {
     title: "Backend Intern",
-    cardImage: "assets/images/experience-page/xper.jpg",
+    cardImage: "https://media.licdn.com/dms/image/v2/D560BAQFpqJDlOtGQHQ/company-logo_200_200/company-logo_200_200/0/1706530106392/crewmansolution_logo?e=2147483647&v=beta&t=1QkpVXH84wyrby6bAfwa48RbZNjQ4eHSjwknnMOuoWU",
     place: "Crewman solutions Pvt. Ltd.",
     time: "(Jul - Sep, 2024)",
     desp: "<li>Worked with Django as a part of Internship</li><li>Worked on Django REST Framework and on REST APIs as well.</li><li>Displayed professional traits during the Internship Period</li>",
