@@ -11,6 +11,13 @@ const exp = [
     time: "(Jul - Sep, 2024)",
     desp: "<li>Worked with Django as a part of Internship</li><li>Worked on Django REST Framework and on REST APIs as well.</li><li>Displayed professional traits during the Internship Period</li>",
   },
+  {
+    title: "Backend Intern",
+    cardImage: "assets/images/experience-page/xper.jpg",
+    place: "Crewman solutions Pvt. Ltd.",
+    time: "(Jul - Sep, 2024)",
+    desp: "<li>Worked with Django as a part of Internship</li><li>Worked on Django REST Framework and on REST APIs as well.</li><li>Displayed professional traits during the Internship Period</li>",
+  }
 ];
 
 const showCards2 = () => {
